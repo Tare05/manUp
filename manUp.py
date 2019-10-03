@@ -19,6 +19,7 @@ def lookUpFunction():
 	for r in getReferencesFrom(currentAddress):
 		if r.isExternalReference():
 			func_name = r.getLibraryName() + " " + r.getLabel()
+			return func_name
 			break
 		else:
 			func_name = getFunctionAt(r.getToAddress())
