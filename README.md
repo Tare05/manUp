@@ -11,4 +11,4 @@ Change the *BROWSER* and the *TERMINAL* variables at the beginning of the script
 
 By default the *SHIFT-G* hotkey is used for the lookup, you can change it to whatevs at the header section of the script.
 
-Thats all you have to be careful of, just add it to your ghidra scripts and you can open up those man's faster then Jason.
+Thats all you have to be careful of, just add it to your ghidra scripts and you can open up those man's faster than Jason.
